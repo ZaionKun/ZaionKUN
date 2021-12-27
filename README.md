@@ -1,6 +1,6 @@
 ### Oi gente 👋
 
-- 🔭 Atualmente trabalhando com Design
+- 🔭 Atualmente estou estudando programação
 - 🌱 Estou aprendendo Java
-- 👯 Colaborando com um projeto da Necto Systems
+- 👯 Colaborando com um projeto da FATEC - API
 - 📫 Pode me contatar via: gomeszaion@gmail.com
