@@ -1,4 +1,10 @@
 ### Oi!!! Eu Sou o Zaion Felippe 👋
+- 🎓 Estudante de Banco de Dados 
+- 🔭 Atualmente estou estudando programação
+- 👯 Colaborando com um projeto da FATEC de São José dos Campos
+- 📫 Pode me contatar via: gomeszaion@gmail.com
+
+
 <div align="center">
   <a href="https://github.com/ZaionKun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaionKun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
