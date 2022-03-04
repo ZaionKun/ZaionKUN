@@ -1,5 +1,27 @@
-### Oi gente, sou o Zaion Felippe 👋
+### Oi!!! Eu Sou o Zaion Felippe 👋
 - 🎓 Estudante de Banco de Dados 
 - 🔭 Atualmente estou estudando programação
 - 👯 Colaborando com um projeto da FATEC de São José dos Campos
 - 📫 Pode me contatar via: gomeszaion@gmail.com
+<div align="center">
+  <a href="https://github.com/ZaionKun">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaionKun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaionKun&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Zaion-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Zaion-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Zaion-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Zaion-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+</div>
+  
+  ##
+  
+<div> 
+  <a href="https://www.instagram.com/zaion_felippe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gomeszaion@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mhttps://gitlab.com/gomeszaion"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/ZaionKun/ZaionKun/blob/output/github-contribution-grid-snake.svg)
+</div>   
