@@ -25,4 +25,6 @@
   <a href = "gomeszaion@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://gitlab.com/gomeszaion"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 
+  ![Snake animation](https://github.com/ZaionKun/ZaionKun/blob/output/github-contribution-grid-snake.svg)
+
 </div>   
